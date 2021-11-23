@@ -17,8 +17,8 @@ Additional description about the project and its features.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/joskalenda)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jos-kalenda-908069205/)
+- GitHub: [@Jos Kalenda](https://github.com/joskalenda)
+- LinkedIn: [Jos Kalenda](https://www.linkedin.com/in/jos-kalenda-908069205/)
 
 
 ## 🤝 Contributing
@@ -31,8 +31,4 @@ Feel free to check the [issues page](https://github.com/joskalenda/Hello-Microve
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
